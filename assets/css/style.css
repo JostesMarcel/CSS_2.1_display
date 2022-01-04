@@ -1,0 +1,7 @@
+article {
+    border: 1px solid gray;
+    width:  40vh;
+    display: inline-block;
+    margin: 10px;
+    padding-left: 2%;
+}
